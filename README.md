@@ -2,8 +2,6 @@
 
 I am Jeff, a freelance _ developer from Hong Kong. 
 
-我是張倖萌，一名來自香港的__師，目前就讀__，主修__專業。
-
 Please visit my blog on [https://__/](https:__) and portfolio website on [https://portfolio.__](https://portfolio.__) !
 
 歡迎參觀我的部落格 [https://__.__](https://__.__) 和個人作品集網站 [https://portfolio.__.__](https://portfolio.__.__) !
