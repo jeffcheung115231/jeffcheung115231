@@ -1,16 +1,14 @@
 # Wellcome
 
-I am Jeff, a freelance _ developer from Hong Kong. 
+I am Jeff, a data engineer from Hong Kong. 
 
-Please visit my blog on [https://__/](https:__) and portfolio website on [https://portfolio.__](https://portfolio.__) !
+* **Data Analysis and Visualization:** Experience in analyzing data, generating reports, and creating dashboards for management.
+* **Digital Marketing:** Expertise in online marketing strategies, including SEO/SEM, social media marketing, and email marketing.
+* **Web Development:** Proficiency in WordPress and Wix, demonstrating website development skills.
+* **Technical Skills:** Proficient in MS Office, Word, Excel, PowerPoint, Outlook, Windows, Linux, Unix, VMWare, Chinese Word Processing, Python, Tableau, Power BI.
+* **Sales and Customer Success:** Proven track record of exceeding sales targets, providing excellent customer service, and building strong relationships.
 
-歡迎參觀我的部落格 [https://__.__](https://__.__) 和個人作品集網站 [https://portfolio.__.__](https://portfolio.__.__) !
 
-Currently working on [__](https://__.com/), a platform that helps developers to deploy their frontend, backend and database service with one click!
-
-目前正在打造 [__](https://__.com/zh-HK)，一個致力於幫助開發者一鍵部署前端、後端及資料庫的服務部署平台！
-
-<a href="https://www.__.com">
   <img src="https://skillicons.dev/icons?i=ts,react,next,remix,tailwind,go,docker,k8s,gcp,mongo,figma,idea)" />
 </a>
 
