@@ -9,6 +9,7 @@ I am Jeff, a data engineer from Hong Kong.
 * **Sales and Customer Success:** Proven track record of exceeding sales targets, providing excellent customer service, and building strong relationships.
 
 
+
   <img src="https://skillicons.dev/icons?i=ts,react,next,remix,tailwind,go,docker,k8s,gcp,mongo,figma,idea)" />
 </a>
 
@@ -77,4 +78,4 @@ I am Jeff, a data engineer from Hong Kong.
 
 ### 📫 How to reach me:
 
-- email: jeffcheung115231@gmail.com
+- Email: jeffcheung115231@gmail.com
