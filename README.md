@@ -49,7 +49,8 @@ I am Jeff, a data engineer learner from Hong Kong.
 ![](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Analysis Tool skills
-
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![](https://img.shields.io/badge/-Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![](https://img.shields.io/badge/-Facebook%20Pixel-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
