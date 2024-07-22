@@ -63,4 +63,4 @@ I am Jeff, a data engineer learner from Hong Kong.
 
 ### 📫 How to reach me:
 
-- Email: JeffCheung115231@gmail.com
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): JeffCheung115231@gmail.com
