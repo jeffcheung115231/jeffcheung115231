@@ -43,8 +43,8 @@ Hi, I am Jeff, a Data Engineer learner from Hong Kong.
 ## Development Tool skills
 
 ![](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Analysis Tool skills
