@@ -1,4 +1,4 @@
-<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/67804442-8485-4353-86ac-72474b6766a0"><img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/64c21d91-1787-49c9-86b1-970bf0446c1c">
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/64c21d91-1787-49c9-86b1-970bf0446c1c">
 
 # Wellcome
 
