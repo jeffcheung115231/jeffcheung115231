@@ -8,7 +8,7 @@ I am Jeff, a data engineer learner from Hong Kong.
 * **Technical Skills:** Proficient in MS Office, Word, Excel, PowerPoint, Outlook, Windows, Linux, Unix, VMWare, Chinese Word Processing, Python, Tableau, Power BI.
 
 
-  <img src="https://skillicons.dev/icons?i=aws,react,next,remix,git,go,docker,gcp,mongo,figma,idea,linux)" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,py,react,git,docker,mongo,mysql,figma,linux)" />
 </a>
 
 ## My GitHub Stats
