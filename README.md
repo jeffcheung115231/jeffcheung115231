@@ -37,7 +37,7 @@ I am Jeff, a data engineer learner from Hong Kong.
 ## Experienced Cloud Platform
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![](https://img.shields.io/badge/-Amazon%20Web%20Service-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
 
 ## Development Tool skills
