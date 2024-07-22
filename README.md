@@ -26,6 +26,7 @@ I am Jeff, a data engineer learner from Hong Kong.
 
 ![](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/-Mongo%20DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 
 ## Operation Skills
