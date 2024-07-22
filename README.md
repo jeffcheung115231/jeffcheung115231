@@ -1,6 +1,6 @@
 # Wellcome
 
-I am Jeff, a data engineer learner from Hong Kong. 
+I am Jeff, a Data Engineer learner from Hong Kong. 
 
 * **Data Analysis and Visualization:** Experience in analyzing data, generating reports, and creating dashboards for management.
 * **Digital Marketing:** Expertise in online marketing strategies, including SEO/SEM, social media marketing, and email marketing.
