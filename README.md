@@ -6,13 +6,10 @@ Hi, I am Jeff, a driven and enthusiastic Data Engineer learner from Hong Kong wi
 
 **Expertise:**
 
-**Data Analysis:** Experienced in identifying trends, patterns, and insights.
-
-**Dashboard Creation:** Proficient in building interactive dashboards using data visualization tools like Tableau, Power BI.
-
-**Data Querying & Manipulation:** Proficient in SQL for data extraction, cleaning, and transformation.
-
-**Other Tools:** Experienced in using Python (Pandas, NumPy, Matplotlib), and Excel.
+**Data Analysis:** Proficient in identifying trends and patterns, eager to apply data analysis techniques to support decision-making.
+**Dashboard Creation:** Skilled in building interactive dashboards using Tableau and Power BI to effectively communicate data insights.
+**Data Querying & Manipulation:** Proficient in SQL for data extraction, cleaning, and transformation, ensuring data accuracy and reliability.
+**Other Tools:**  Experienced in using Python (Pandas, NumPy, Matplotlib) and Excel for data analysis and reporting.
 
 ##
   <img src="https://skillicons.dev/icons?i=py,docker,mongo,postgres,mysql,react,aws,azure,gcp,git,figma,linux)" />
