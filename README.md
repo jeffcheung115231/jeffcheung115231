@@ -5,10 +5,10 @@
 Hi, I am Jeff, a driven and enthusiastic Data Engineer learner from Hong Kong with a strong foundation in data analysis, digital marketing, and web development. Seeking opportunities to leverage technical skills and contribute to data-driven solutions.
 
 **Expertise:**
-Data Analysis: Experienced in identifying trends, patterns, and insights.
-Dashboard Creation: Proficient in building interactive dashboards using data visualization tools like Tableau, Power BI.
-Data Querying & Manipulation: Proficient in SQL for data extraction, cleaning, and transformation.
-Other Tools: Experienced in using Python (Pandas, NumPy, Matplotlib), and Excel.
+**Data Analysis:** Experienced in identifying trends, patterns, and insights.
+**Dashboard Creation:** Proficient in building interactive dashboards using data visualization tools like Tableau, Power BI.
+**Data Querying & Manipulation:** Proficient in SQL for data extraction, cleaning, and transformation.
+**Other Tools:** Experienced in using Python (Pandas, NumPy, Matplotlib), and Excel.
 
 ##
   <img src="https://skillicons.dev/icons?i=py,docker,mongo,postgres,mysql,react,aws,azure,gcp,git,figma,linux)" />
