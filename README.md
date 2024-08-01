@@ -4,7 +4,7 @@
 
 Hi, I am Jeff, a driven and enthusiastic Data Engineer learner from Hong Kong with a strong foundation in data analysis, digital marketing, and web development. Seeking opportunities to leverage technical skills and contribute to data-driven solutions.
 
-**Data Analysis & Visualization:
+**Data Analysis & Visualization:**
 Experience in analyzing data, generating reports, and creating dashboards for management.
 Proficient in Tableau and Power BI for data visualization.
 Proficient in SQL for data querying and manipulation.
