@@ -2,7 +2,7 @@
 
 # Wellcome
 
-Hi, I am Jeff, a driven and enthusiastic Data Engineer learner with a strong foundation in data analysis, digital marketing, and web development. Seeking opportunities to leverage technical skills and contribute to data-driven solutions from Hong Kong.
+Hi, I am Jeff, a driven and enthusiastic Data Engineer learner from Hong Kong with a strong foundation in data analysis, digital marketing, and web development. Seeking opportunities to leverage technical skills and contribute to data-driven solutions.
 
 **Skills:**
 
